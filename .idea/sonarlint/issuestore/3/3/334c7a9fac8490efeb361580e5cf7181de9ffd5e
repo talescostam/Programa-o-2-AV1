@@ -1,0 +1,14 @@
+
+°
+java:S1319†"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÿ®ùu8¸„–ø1J$a2abb4ad-3872-4e8c-8fe6-4fcc777b8d02
+±
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¼æèº8¸„–ø1J$5f8ed67e-baa4-44b8-870d-b4e5d108e2db
+|
+java:S5993"9Change the visibility of this constructor to "protected".(ƒû÷Æ8È„–ø1J$4fd98928-59b7-45b2-915d-b016b7b27a69
+r	java:S106%"+Replace this use of System.out by a logger.(Ã¾ê…ùÿÿÿÿ8Ë„–ø1J$97656e38-c8f5-4f86-a9e1-36c35835d403
+m	java:S106)"+Replace this use of System.out by a logger.(è’¯–8Ë„–ø1J$e23d744c-f45b-4e90-9172-ba4454978ef4
+m	java:S106-"+Replace this use of System.out by a logger.(Çá¿Ä8Ì„–ø1J$db31a8a0-6ca0-4ad2-977b-c247db0bed6e
+m	java:S1062"+Replace this use of System.out by a logger.(Êî’§8Ì„–ø1J$81728467-ef65-4f72-985d-1a3063018b27
+r	java:S1067"+Replace this use of System.out by a logger.(Şé¸Äûÿÿÿÿ8Ï„–ø1J$a1631a94-8d4a-4f3d-b1c2-96456b190934
+r	java:S106;"+Replace this use of System.out by a logger.(Éª”æÿÿÿÿÿ8ãĞ§–ø1J$02600c09-7516-40d8-ae58-a4eebaade949
+H	java:S106˜"+Replace this use of System.out by a logger.(Ÿâ¨8¶Ï¨–ø1

@@ -1,0 +1,7 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¥ÎÃø8ºÚ˜–ø1
+G	java:S106 "+Replace this use of System.out by a logger.(ÆÀûý8ºÚ˜–ø1
+d
+java:S1858)"G"data" is already a string, there's no need to call "toString()" on it.(£˜‰Õ8»Ú˜–ø1
+L	java:S106+"+Replace this use of System.out by a logger.(½ÓšÈúÿÿÿÿ8¼Ú˜–ø1
+L	java:S106/"+Replace this use of System.out by a logger.(ÚŒ¥Šúÿÿÿÿ8¼Ú˜–ø1
